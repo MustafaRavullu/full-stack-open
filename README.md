@@ -1,3 +1,3 @@
-# Full Stack Open 2024
+# Full Stack Open
 
-My solutions for exercises of Full Stack Open course
+My solutions for Full Stack Open
